@@ -1,0 +1,11 @@
+h1 {
+	text-align: center;
+	margin-top: 0;
+	color: red;
+}
+
+#friends{
+	text-align: left;
+	margin-top: 1em;
+	color: blue;
+}
